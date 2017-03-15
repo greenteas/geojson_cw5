@@ -339,6 +339,54 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Queens Botanical Garden"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8315435,
+          40.7509911
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Queens Library"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8313353,
+          40.7578851
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "US Post Office"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8304154,
+          40.7550825
+        ]
+      }
     }
   ]
 }
